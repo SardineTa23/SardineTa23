@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SardineTa23&count_private=true&show_icons=true&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SardineTa23&layout=compact&theme=dracula)
 
+## 資格
+ - AWS Certified Solutions Architect – Associate
+ - AWS Certified Developer - Associate
 
 <!--
 **SardineTa23/SardineTa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
