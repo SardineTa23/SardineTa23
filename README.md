@@ -1,7 +1,7 @@
 ### プロフィール
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwashi623&count_private=true&show_icons=true&theme=tokyonight&&bg_color=00000000)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashi623&layout=compact&theme=tokyonight&&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwashi623&count_private=true&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashi623&layout=compact&theme=swift)
 
 <!--
 **SardineTa23/SardineTa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
