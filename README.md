@@ -5,7 +5,7 @@ Yeah🦖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashi623&layout=compact&theme=swift)
 
 <!--
-**SardineTa23/SardineTa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iwashi623/iwashi623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
